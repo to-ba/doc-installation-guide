@@ -35,5 +35,5 @@ The `hardware database <https://community.linuxmint.com/hardware/search>`_ is us
 
 Local communities
 -----------------
-
+ 
 To find help in your language, use the `Local Communities <https://www.linuxmint.com/links.php>`_.
